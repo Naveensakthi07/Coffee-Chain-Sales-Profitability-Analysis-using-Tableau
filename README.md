@@ -22,3 +22,6 @@ Discovered seasonal and category-level sales trends
 🛠 Tools Used
 
 Tableau
+
+# Link
+https://public.tableau.com/views/Insightusingdifferentdata/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
